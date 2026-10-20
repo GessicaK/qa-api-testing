@@ -1,5 +1,6 @@
 # qa-api-testing
-Postman API testing practice and test collection
+Postman API testing practice demonstrating API requests, response validation, and test scripts.
+
 Tools
 - Postman
 - REST API
